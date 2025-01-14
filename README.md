@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/74b08923-e815-4b15-9166-64b8a042780f" alt="EVERY SECOND COUNTS!" width="400">
+<img src="https://github.com/user-attachments/assets/74b08923-e815-4b15-9166-64b8a042780f" alt="EVERY SECOND COUNTS!" width="400" height="300">
 
 
 👋 안녕하세요 ! 사람들에게 도움을 줄 수 있는 개발자를 꿈꾸는 김상현입니다.
@@ -20,6 +20,6 @@
 서버 아키텍처 설계에 대한 인사이트를 배우고 싶습니다.
 
 
-⚡  요리사로 일하며 얻은 고객 중심의 사고와 끈기를 개발에 녹여내고 있습니다. 
+⚡ 요리사로 일하며 얻은 고객 중심의 사고와 끈기를 개발에 녹여내고 있습니다. 
 "재료 하나하나가 중요한 요리처럼, 코드 한 줄 한 줄이 중요하다"라는 철학을 가지고 코딩에 임합니다!
 
