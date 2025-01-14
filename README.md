@@ -1,16 +1,25 @@
-## Hi there 👋
+<img src="https://github.com/user-attachments/assets/74b08923-e815-4b15-9166-64b8a042780f" alt="EVERY SECOND COUNTS!" width="400">
 
-<!--
-**shubbydobob/shubbydobob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋 안녕하세요 ! 사람들에게 도움을 줄 수 있는 개발자를 꿈꾸는 김상현입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🔭 Java, Spring Framework, MySQL을 활용한 팀 프로젝트에 참여하며 
+백엔드 기능 개발과 데이터베이스 설계에 기여하고 있습니다. 
+또한, 개인적으로는 간단한 웹 애플리케이션을 만들어 보며 배운 기술들을 실제로 적용하는 중입니다.
+
+🌱 Java와 Spring Framework를 심화 학습하며 RESTful API 설계, MySQL 데이터베이스 최적화, 
+그리고 JPA/Hibernate와 같은 기술들을 익히고 있습니다. 
+더불어 Git을 활용한 협업 및 프로젝트 관리에도 집중하고 있습니다.
+
+👯 백엔드 개발 중심의 소규모 팀 프로젝트에 참여하여 협업 경험을 쌓고, 
+실제 사용자들에게 가치 있는 소프트웨어를 제공할 수 있는 기회를 찾고 있습니다.
+
+🤔 효율적인 설계 패턴과 코드 최적화 방법, 그리고 대규모 트래픽을 처리할 수 있는 
+서버 아키텍처 설계에 대한 인사이트를 배우고 싶습니다.
+
+
+⚡  요리사로 일하며 얻은 고객 중심의 사고와 끈기를 개발에 녹여내고 있습니다. 
+"재료 하나하나가 중요한 요리처럼, 코드 한 줄 한 줄이 중요하다"라는 철학을 가지고 코딩에 임합니다!
+
