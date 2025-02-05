@@ -71,13 +71,13 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ---
-
+<!--
 ## 📈 Growth Goals
 ✔ **더 나은 코드 구조와 설계 패턴 연구** → 유지보수성이 높은 코드 작성  
 ✔ **대용량 트래픽을 처리할 수 있는 아키텍처 학습**  
 ✔ **CI/CD, DevOps 환경에 익숙해지기**  
+-->
 
----
 
 ## 📌 📬 Contact  
 💌 **Email**: [shubbydobob@gmail.com](mailto:shubbydobob@gmail.com)  
