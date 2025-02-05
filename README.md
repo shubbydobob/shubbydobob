@@ -1,4 +1,4 @@
-# ' 개발로 더 나은 일상을 만들고, 생활 속 불편함에 도움을 줄 수 있는 개발자'를 꿈꾸는 김상현입니다.
+# ' 개발로 더 나은 일상을 만들고, 생활 속 불편함에 도움을 줄 수 있는' 개발자를 꿈꾸는 김상현입니다.
 <!--<img src="https://github.com/user-attachments/assets/74b08923-e815-4b15-9166-64b8a042780f" alt="EVERY SECOND COUNTS!" width="400" height="300">-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubbydobob&show_icons=true&theme=tokyonight" width="48%">
