@@ -3,7 +3,7 @@
 <!--<img src="https://github.com/user-attachments/assets/74b08923-e815-4b15-9166-64b8a042780f" alt="EVERY SECOND COUNTS!" width="400" height="300">-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubbydobob&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://komarev.com/ghpvc/?username=shubbydobob&label=Profile%20Views&color=blue" alt="Profile Views" />
+  
 </p>
 
 ## 🛠 Chef -> Backend Developer
