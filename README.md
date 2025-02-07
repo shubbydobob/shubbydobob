@@ -27,20 +27,20 @@
 
 ## 📂 **Projects**  
 ### ♟ **체스 게임 웹 애플리케이션** *(2025.01.06 ~ )*  
-> `Spring Boot` `JPA` `MySQL` `WebSocket` `AWS`  
+> `Spring Boot` `JPA` `MySQL` `WebSocket` `AWS RDS` `EC2`  
 - **실시간 멀티플레이 체스 게임 개발**  
 - WebSocket을 이용한 **실시간 통신 기능** 구현  
 - AWS 배포 (EC2 + RDS) 및 **서버 최적화**  
 📌 **GitHub:** [🔗 체스 게임 프로젝트](https://github.com/shubbydobob/PlayChessGame)  
 
 ### 🌞 **태양광 발전량 예측 대시보드** *(2024.12.16 ~ 2025.01.06)*  
-> `Spring MVC` `Python Flask` `MySQL` `JavaScript`  
+> `Spring MVC` `Python Flask` `MySQL`  
 - **기상 데이터를 연동한 태양광 발전량 예측 시스템 개발**  
 - Flask + Spring MVC 연결하여 **API 데이터 통합**  
 📌 **GitHub:** [🔗 태양광 대시보드 프로젝트](https://github.com/shubbydobob/SolarDashBoard)  
 
 ### 🔧 **냉/난방 A/S 예약 시스템** *(2024.12.04 ~ 2024.12.13)*  
-> `Spring Boot` `MySQL` `JSP`  
+> `Spring Framework` `MySQL` `JSP`  
 - **예약 및 자동 일정 관리 기능 개발**  
 📌 **GitHub:** [🔗 A/S 예약 프로젝트](https://github.com/shubbydobob/AS_Reservation)
 
