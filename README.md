@@ -4,10 +4,10 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{shubbydobob}"/>
 </a>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubbydobob&show_icons=true&theme=tokyonight" width="48%">
   
-</p>
+</p> -->
 
 ## 🛠 Chef -> Backend Developer
 > **"좋은 요리가 좋은 재료에서 시작되듯, 좋은 코드도 디테일에서 완성된다."**  
